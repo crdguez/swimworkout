@@ -1,4 +1,3 @@
-# Swimworkout
 Entrenamientos de natación para gente que no quiere pensar.
 
 ## Instrucciones
