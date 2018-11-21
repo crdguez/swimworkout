@@ -2,7 +2,7 @@
 Entrenamientos de natación para gente que no quiere pensar.
 
 ## Instrucciones
-Elige según tu nivel el enlace que mejor se adapte a ti.
+Elige el enlace que mejor se adapte a ti en la tabla que aparece más abajo.
 
 La nomenclatura a seguir es: Repeticiones. Distancia-Estilo y descanso. Por ejemplo:
 
@@ -29,4 +29,4 @@ A veces el tiempo viene dado por el denominado tiempo a **velocidad crucero**. E
 
 ## Nomenclatura adicional:
 
-* Indianas: Normalmente series de 50 a estilos cambiando cada 25: La primera 25M-25E, la segunda 25E-25B, etc. Ese nombre me lo dijo el gran @pepesaluena, y según cuenta la leyenda eran unas series que se popularizaron en la Universidad de Indiana en los años 70
+* **Indianas**: Normalmente series de 50 a estilos cambiando cada 25: La primera 25M-25E, la segunda 25E-25B, etc. Ese nombre me lo dijo el gran @pepesaluena, y según cuenta la leyenda eran unas series que se popularizaron en la Universidad de Indiana en los años 70
