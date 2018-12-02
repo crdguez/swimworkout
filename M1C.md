@@ -19,3 +19,12 @@
 * 4x50P c/1'05"
 * 5x200 impares C c/2'50", pares X c/3'10"
 * 100 suaves
+
+## Entrenamiento 3
+
+* 400 nado
+* 6x75 (25TC-25P-25ME)
+* 6x50ME progresivas 1-3 c/60"
+* 6x100C progresivas 1-3 c/2'
+* 3x200X progresivas 1-3 c/3'15"
+* 100 suaves
