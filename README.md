@@ -17,8 +17,9 @@ Los estilos se representan:
 * X: **estilos**
 * P: **pies**
 * ME: **mejor estilo**
+* TC: **técnica**
 
-A veces el tiempo viene dado por el denominado tiempo a **velocidad crucero**. Es el ritmo al que aguantas bien pero sin ir suave, vamos que notas que estás entrenando. Para calcularlo para ritmo de 100 depende de tu nivel: Si llevas tiempo nadando, nada un 400 todo lo rápido que puedas sin desfondarte y la media por 100 se acercará a tu crucero. Si llevas poco tiempo, lo que hagas en un 100 sin llegar ni axfisiado ni sin cansarte.
+A veces el tiempo viene dado por el denominado tiempo a **velocidad crucero**. Es el ritmo al que aguantas bien pero sin ir suave, vamos que notas que estás entrenando. Para calcularlo para ritmo de 100 depende de tu nivel: Si llevas tiempo nadando, nada un 400 todo lo rápido que puedas sin desfondarte y la media por 100 se acercará a tu crucero. Si llevas poco tiempo, lo que hagas en un 100 sin llegar ni asfixiado ni sin cansarte.
 
 ## Índice de entrenamientos
 
